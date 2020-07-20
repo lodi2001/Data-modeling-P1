@@ -192,7 +192,7 @@ CREATE TABLE time(
         weekday             VARCHAR(20)     NOT NULL
     )
 ```
-![Tables](https://r766469c826419xjupyterlr5tapor7.udacity-student-workspaces.com/lab/tree/schema_star.png)
+![Tables](https://github.com/lodi2001/Data-modeling-P1/blob/master/schema_star.png?raw=true)
 
 
 ## Results of Queries
